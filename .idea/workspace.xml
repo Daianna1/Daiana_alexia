@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f20974d1-9227-4cc5-b00d-2cc937ffaf4d" name="Changes" comment="Tema 3" />
+    <list default="true" id="f20974d1-9227-4cc5-b00d-2cc937ffaf4d" name="Changes" comment="proiect" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,9 +46,15 @@
     "Python.Tema 4.executor": "Run",
     "Python.proiect.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/DAIANA/Documents/GitHub/Daiana_alexia/.idea"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DAIANA\Documents\GitHub\Daiana_alexia\.idea" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -97,11 +103,28 @@
       <option name="project" value="LOCAL" />
       <updated>1730700511480</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="proiect">
+      <option name="closed" value="true" />
+      <created>1736277528809</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1736277528809</updated>
+    </task>
+    <task id="LOCAL-00006" summary="proiect">
+      <option name="closed" value="true" />
+      <created>1736277554001</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1736277554001</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Tema 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tema 2" />
+    <MESSAGE value="proiect" />
+    <option name="LAST_COMMIT_MESSAGE" value="proiect" />
   </component>
 </project>
